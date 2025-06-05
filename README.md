@@ -1,7 +1,13 @@
-## Hi there 👋
+## 👋 About Me
 
+I'm a qualified actuary specializing in building high-performance actuarial calculation engines using C#. My work integrates deep actuarial knowledge with software engineering best practices to deliver robust, scalable, and maintainable solutions.
+
+Currently I am working in Lærernes Pension 
 <!--
 **kdm95/kdm95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
