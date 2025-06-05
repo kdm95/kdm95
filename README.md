@@ -10,6 +10,9 @@ I’m motivated by the challenge of making complex actuarial logic accessible, i
 
 In addition to my industry work, I serve as an external lecturer at the University of Copenhagen, where I have designed, supervised and examined the final undergraduate actuarial assignment for + 75 students in both 2024 and 2025. 
 
+At the moment I work solely on private repositories... 
+
+
 <!--
 **kdm95/kdm95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
