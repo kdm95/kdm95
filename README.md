@@ -4,7 +4,7 @@ I'm a qualified actuary specializing in building high-performance actuarial calc
 
 Currently I am working in Lærernes Pension where I have implemented a CLI language for configuring and executing our day-to-day actuarial calculations. 
 
-I am also an external lecturer at the University of Copenhagen. Here I have designed, supervised and examined the final undergraduate actuarial assignment for + 75 stuends. 
+I am also an external lecturer at the University of Copenhagen. Here I have designed, supervised and examined the final undergraduate actuarial assignment for + 75 students in collab with Jacob Juhl. 
 
 
 - 💬 Ask me about ...
