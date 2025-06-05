@@ -6,7 +6,7 @@ Currently, I work at Lærernes Pension, where I’ve implemented a custom CLI to
 
 I bring a deep understanding of actuarial mathematics and business strategy, combined with strong technical skills in software development and system architecture — particularly in C#, .NET, and SQL.
 
-I’m motivated by the challenge of making complex actuarial logic accessible and actionable real-world applications.
+I’m motivated by the challenge of making complex actuarial logic accessible and actionable in real-world applications.
 
 
 
