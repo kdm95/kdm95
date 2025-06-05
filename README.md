@@ -2,13 +2,11 @@
 
 I'm a qualified actuary specializing in building high-performance actuarial calculation engines targeted the pension industry. 
 
-Currently I am working in Lærernes Pension where I have implemented a custom CLI language for configuring and executing our day-to-day actuarial calculations. 
+Currently, I work at Lærernes Pension, where I’ve implemented a custom CLI tool for configuring and executing our day-to-day actuarial calculations.
 
-I am also an external lecturer at the University of Copenhagen. Here I have designed, supervised and examined the final undergraduate actuarial assignment for + 75 students. 
+I bring a deep understanding of actuarial mathematics and business strategy, combined with strong technical skills in software development and system architecture — particularly in C#, .NET, and SQL.
 
-
-
-
+I’m motivated by the challenge of making complex actuarial logic accessible and actionable — translating intricate models into scalable, maintainable, and real-world applications.
 
 
 
